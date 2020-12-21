@@ -21,7 +21,7 @@ Verificar a mensagem “Sending e-mail success!” na tela
 ### Instalação
 Clonar o projeto do repositório para ter acesso. Executar o comando no terminal:
 ```sh
-$ git clone linkDoProjeto
+$ git clone https://github.com/LucasBonanno/challenge_automation_accenture
 ```
 **Observações:**
  - É necessário ter o plugin do Cucumber intalado na IDE
